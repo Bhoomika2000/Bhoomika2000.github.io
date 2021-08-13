@@ -20,12 +20,12 @@ body{
 
 .center{
 	width: 90%;
-	background-color: pink;
+	background-color: grey;
 
 }
 .container
 {
-	background-color: blue;
+	background-color: grey;
 }
 .text-center{
 	font-size: 30px;
